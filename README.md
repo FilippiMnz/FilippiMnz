@@ -4,6 +4,10 @@
 - 🌱 Studing C#/.Net and linux
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Entusiasta
+- <div>
+- <a href="https://github.com/FilippiMnz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilippiMnz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippiMnze&layout=compact&langs_count=16&theme=dark"/>
+- </div>
 
-  ![Snake animation](https://github.com/FilippiMnz/FilippiMnz/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/FilippiMnz/FilippiMnz/blob/output/github-contribution-grid-snake.svg)
