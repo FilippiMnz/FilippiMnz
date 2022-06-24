@@ -5,3 +5,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Entusiasta
 
+  ![Snake animation](https://github.com/FilippiMnz/FilippiMnz/blob/output/github-contribution-grid-snake.svg)
+
