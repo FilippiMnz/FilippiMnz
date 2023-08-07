@@ -1,4 +1,9 @@
 # FilippiMnz
+<h3>
+  <p align="center"><img align="center" src="https://github.com/FilippiMnz/FilippiMnz/tree/main/assets/img/ippo(2).png?raw=true" height="75px" /> Welcome!</p>
+</h3>
+
+<hr />
 - 🌱 Studing C#/.Net and linux
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Entusiasta
