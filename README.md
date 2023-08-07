@@ -1,6 +1,8 @@
 # FilippiMnz
 <h3>
   <p align="center"><img align="center" src="https://github.com/FilippiMnz/FilippiMnz/tree/main/assets/img/froakie.png?raw=true" height="75px" /> Welcome!</p>
+  ![ippo](https://github.com/FilippiMnz/FilippiMnz/assets/85193619/fb66e749-0d27-4d02-8d8b-5ffa6fb988c0)
+
 </h3>
 
 <hr />
