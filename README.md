@@ -9,6 +9,6 @@ My name is Filippi Reis and I'm a software developer. I'm from Brazil, living in
 </a>
 <a href="https://github.com/FilippiMnz/FilippiMnz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FilippiMnz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Filippi's GitHub Stats" />
-  <img src ="https://github.com/FilippiMnz/FilippiMnz/assets/85193619/514738a0-5e85-4c48-911a-389c953fa183" width = "150px" height="200px"/>
+  <img src ="https://github.com/FilippiMnz/FilippiMnz/assets/85193619/514738a0-5e85-4c48-911a-389c953fa183" width = "100px" height="150px"/>
   
 </a>
