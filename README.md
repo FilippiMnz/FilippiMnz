@@ -1,6 +1,6 @@
 # Hello, Everyone! <img src="https://github.com/FilippiMnz/FilippiMnz/assets/85193619/fb66e749-0d27-4d02-8d8b-5ffa6fb988c0" width="60px" height="80px" />
 
-My name is Filippi Reis and I'm a software developer. I'm from Brazil, living in Aracaju and currently i'm studying computer science at the Federal University of Sergipe.
+My name is Filippi Reis and I'm a back-end developer. I'm from Brazil, living in Aracaju and currently i'm studying computer science at the Federal University of Sergipe.
 
 ## GitHub Stats
 
