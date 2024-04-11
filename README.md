@@ -1,12 +1,12 @@
-# Hello, Everyone! <img src="https://github.com/FilippiMnz/FilippiMnz/assets/85193619/fb66e749-0d27-4d02-8d8b-5ffa6fb988c0" width="60px" height="80px" />
+# Hello, Everyone!
 
 My name is Filippi Reis and I'm a back-end developer. I'm from Brazil, living in Aracaju and currently i'm studying computer science at the Federal University of Sergipe.
 
 ## GitHub Stats
 
 <a href="https://github.com/FilippiMnz/FilippiMnz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippiMnz&hide=java,html,tex&title_color=33FF33&text_color=33FF33&icon_color=33FF33&bg_color=9932CD&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippiMnz&hide=java,html,tex&title_color=E0FFFF&text_color=F5DEB3&icon_color=E0FFFF&bg_color=8B7355&langs_count=3" />
 </a>
 <a href="https://github.com/FilippiMnz/FilippiMnz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FilippiMnz&show_icons=true&line_height=27&count_private=true&title_color=33FF33&text_color=33FF33&icon_color=33FF33&bg_color=9932CD" alt="Filippi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FilippiMnz&show_icons=true&line_height=27&count_private=true&title_color=E0FFFF&text_color=F5DEB3&icon_color=E0FFFF&bg_color=8B7355" alt="Filippi's GitHub Stats" />
 </a>
