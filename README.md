@@ -1,4 +1,4 @@
-# Hello, Everyone!
+# Hello, Everyone!<img src="https://github.com/FilippiMnz/FilippiMnz/assets/85193619/76118319-9a12-492b-a1f5-b55a9bcac032" width="100px" height="80px" />
 
 My name is Filippi Reis and I'm a back-end developer. I'm from Brazil, living in Aracaju and currently i'm studying computer science at the Federal University of Sergipe.
 
@@ -10,4 +10,4 @@ My name is Filippi Reis and I'm a back-end developer. I'm from Brazil, living in
 <a href="https://github.com/FilippiMnz/FilippiMnz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FilippiMnz&show_icons=true&line_height=27&count_private=true&title_color=E0FFFF&text_color=F5DEB3&icon_color=E0FFFF&bg_color=8B7355" alt="Filippi's GitHub Stats" />
 </a>
-<img src="https://github.com/FilippiMnz/FilippiMnz/assets/85193619/76118319-9a12-492b-a1f5-b55a9bcac032" width="200px" height="180px" />
+
