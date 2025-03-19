@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D2B48C&textBg=false"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2B48C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Filippi+Reis;I+study+computer+science++at+UFS;Don't+believe+in+yourself.;+Believe+in+Me+who+believes+in+you!:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2B48C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Filippi+Reis;I+study+computer+science++at+UFS;Don't+believe+in+yourself.;+Believe+in+Me+who+believes+in+you!!!:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FilippiMnz&show_icons=true&count_private=true&hide_border=true&title_color=D2B48C&icon_color=D2B48C&text_color=D2B48C&bg_color=0d1117" alt="Filippi Mnz github stats" /> 
