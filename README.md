@@ -49,6 +49,8 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-
+<div align="center">
+  <img src="hacking_activity.svg" alt="Gráfico de Atividade Pwn.college" width="720px">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D2B48C&textBg=false&section=footer"/>
