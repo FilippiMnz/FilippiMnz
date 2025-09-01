@@ -48,10 +48,7 @@
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FilippiMnz}/count.svg" /></p> 
-<br></div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D2B48C&textBg=false&section=footer"/>
