@@ -2,13 +2,14 @@ name: Update Pwn.college Activity Graph
 
 on:
   workflow_dispatch:
-  
   schedule:
     - cron: '0 3 * * *'
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest    
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
