@@ -26,6 +26,8 @@ Computer Science student at **UFS** (Federal University of Sergipe), focused on 
   <img src="assets/veemon.gif" height="120" alt="Veemon" />
   <img src="assets/imperialdramon.gif" height="120" alt="Imperialdramon" />
   <img src="assets/tentomon.gif" height="120" alt="Tentomon" />
+  <img src="assets/lucha.gif" height="120" alt="hawlucha" />
+  <img src="assets/hawlucha.gif" height="120" alt="megaHawlucha" />
 </div>
 
 ## `> talks`
