@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="204" viewBox="0 0 520 204" role="img" aria-label="smith@github: ~">
+<title>smith@github: ~</title>
+<defs><filter id="glow" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="3"/></filter><clipPath id="round"><rect width="520" height="204" rx="10"/></clipPath></defs>
+<rect x="1.5" y="1.5" width="517" height="201" rx="10" fill="none" stroke="#E5383B" stroke-width="3" opacity="0.35" filter="url(#glow)"/>
+<rect x="0.75" y="0.75" width="518.5" height="202.5" rx="10" fill="#0A0A0A" stroke="#E5383B" stroke-width="1.5"/>
+<g clip-path="url(#round)"><rect width="520" height="36" fill="#151515"/><rect y="35" width="520" height="1" fill="#E5383B" opacity="0.5"/></g>
+<circle cx="22" cy="18.0" r="5" fill="#E5383B"/>
+<circle cx="40" cy="18.0" r="5" fill="#8A2527"/>
+<circle cx="58" cy="18.0" r="5" fill="#431314"/>
+<text x="260.0" y="22.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Menlo','Consolas',monospace" font-size="12" fill="#6E6E6E">smith@github: ~</text>
+<g opacity="0">
+<animate attributeName="opacity" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.066489" values="0;1"/>
+<text x="22" y="70" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Menlo','Consolas',monospace" font-size="14" xml:space="preserve"><tspan fill="#E5383B">┌──(</tspan><tspan fill="#FF8A8A">smith</tspan><tspan fill="#E5383B">㉿</tspan><tspan fill="#FF8A8A">github</tspan><tspan fill="#E5383B">)-[</tspan><tspan fill="#F2F2F2">~</tspan><tspan fill="#E5383B">]</tspan></text></g>
+<g opacity="0">
+<animate attributeName="opacity" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.077128" values="0;1"/>
+<text x="22" y="92" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Menlo','Consolas',monospace" font-size="14" xml:space="preserve"><tspan fill="#E5383B">└─</tspan><tspan fill="#E5383B">$ </tspan></text></g>
+<text x="55.6" y="92" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Menlo','Consolas',monospace" font-size="14" xml:space="preserve"><tspan fill="#F2F2F2">whoami</tspan></text>
+<rect x="55.6" y="77" width="54.4" height="22" fill="#0A0A0A"><animate attributeName="x" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.159574;0.168883;0.178191;0.1875;0.196809;0.206117" values="55.6;64;72.4;80.8;89.2;97.6;106"/><animate attributeName="width" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.159574;0.168883;0.178191;0.1875;0.196809;0.206117" values="54.4;46;37.6;29.2;20.8;12.4;0"/></rect>
+<rect x="55.6" y="79" width="8.4" height="16" fill="#E5383B" opacity="0"><animate attributeName="x" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.159574;0.168883;0.178191;0.1875;0.196809;0.206117" values="55.6;64;72.4;80.8;89.2;97.6;106"/><animate attributeName="opacity" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.077128;0.265957" values="0;1;0"/></rect>
+<text x="22.0" y="114" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Menlo','Consolas',monospace" font-size="14" xml:space="preserve"><tspan fill="#F2F2F2">Filippi Reis Menezes</tspan></text>
+<rect x="22" y="99" width="172" height="22" fill="#0A0A0A"><animate attributeName="x" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.267553;0.269149;0.270745;0.27234;0.273936;0.275532;0.277128;0.278723;0.280319;0.281915;0.283511;0.285106;0.286702;0.288298;0.289894;0.291489;0.293085;0.294681;0.296277;0.297872" values="22;30.4;38.8;47.2;55.6;64;72.4;80.8;89.2;97.6;106;114.4;122.8;131.2;139.6;148;156.4;164.8;173.2;181.6;190"/><animate attributeName="width" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.267553;0.269149;0.270745;0.27234;0.273936;0.275532;0.277128;0.278723;0.280319;0.281915;0.283511;0.285106;0.286702;0.288298;0.289894;0.291489;0.293085;0.294681;0.296277;0.297872" values="172;163.6;155.2;146.8;138.4;130;121.6;113.2;104.8;96.4;88;79.6;71.2;62.8;54.4;46;37.6;29.2;20.8;12.4;0"/></rect>
+<text x="22.0" y="136" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Menlo','Consolas',monospace" font-size="14" xml:space="preserve"><tspan fill="#E5383B">AKA: </tspan><tspan fill="#F2F2F2">SMITH</tspan></text>
+<rect x="22" y="121" width="88" height="22" fill="#0A0A0A"><animate attributeName="x" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.304787;0.306383;0.307979;0.309574;0.31117;0.312766;0.314362;0.315957;0.317553;0.319149" values="22;30.4;38.8;47.2;55.6;64;72.4;80.8;89.2;97.6;106"/><animate attributeName="width" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.304787;0.306383;0.307979;0.309574;0.31117;0.312766;0.314362;0.315957;0.317553;0.319149" values="88;79.6;71.2;62.8;54.4;46;37.6;29.2;20.8;12.4;0"/></rect>
+<g opacity="0">
+<animate attributeName="opacity" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.324468" values="0;1"/>
+<text x="22" y="158" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Menlo','Consolas',monospace" font-size="14" xml:space="preserve"><tspan fill="#E5383B">┌──(</tspan><tspan fill="#FF8A8A">smith</tspan><tspan fill="#E5383B">㉿</tspan><tspan fill="#FF8A8A">github</tspan><tspan fill="#E5383B">)-[</tspan><tspan fill="#F2F2F2">~</tspan><tspan fill="#E5383B">]</tspan></text></g>
+<g opacity="0">
+<animate attributeName="opacity" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.335106" values="0;1"/>
+<text x="22" y="180" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Menlo','Consolas',monospace" font-size="14" xml:space="preserve"><tspan fill="#E5383B">└─</tspan><tspan fill="#E5383B">$ </tspan></text></g>
+<g><animate attributeName="opacity" dur="1.1s" repeatCount="indefinite" calcMode="discrete" values="1;0"/><rect x="55.6" y="167" width="8.4" height="16" fill="#E5383B" opacity="0"><animate attributeName="opacity" dur="7.52s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.335106" values="0;0.9"/></rect></g>
+</svg>
