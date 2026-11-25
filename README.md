@@ -10,8 +10,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E5383B)](https://github.com/FilippiMnz)
-[![SerigyHC](https://img.shields.io/badge/Serigy_Hacker_Club-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=E5383B)](https://github.com/SerigyHackerClub)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E5383B)](https://github.com/serigyHackerClub)
+[![SerigyHC](https://img.shields.io/badge/Serigy_Hacker_Club-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=E5383B)](https://serigyhackerclub.github.io/)
 
 </div>
 
@@ -146,20 +146,20 @@ interests:
 
 <div align="center">
 
-<a href="https://app.hackthebox.com/users/SEU_ID">
-<img src="https://img.shields.io/badge/Hack_The_Box-SMITH-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=E5383B" />
+<a href="https://app.hackthebox.com/">
+<img src="https://img.shields.io/badge/Hack_The_Box-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=E5383B" />
 </a>
 
-<a href="https://tryhackme.com/p/SMITH">
-<img src="https://img.shields.io/badge/TryHackMe-SMITH-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=E5383B" />
+<a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=E5383B" />
 </a>
 
-<a href="https://pwn.college/hacker/SMITH">
-<img src="https://img.shields.io/badge/pwn.college-SMITH-0A0A0A?style=for-the-badge&logoColor=E5383B" />
+<a href="https://pwn.college/">
+<img src="https://img.shields.io/badge/pwn.college-0A0A0A?style=for-the-badge&logoColor=E5383B" />
 </a>
 
-<a href="https://play.picoctf.org/users/SMITH">
-<img src="https://img.shields.io/badge/picoCTF-SMITH-0A0A0A?style=for-the-badge&logoColor=E5383B" />
+<a href="https://cylabacademy.org/">
+<img src="https://img.shields.io/badge/picoCTF-0A0A0A?style=for-the-badge&logoColor=E5383B" />
 </a>
 
 
